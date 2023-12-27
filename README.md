@@ -19,11 +19,6 @@ Anggota
 Line Following Robot dengan mikrokontroler Arduino UNO menggunakan motor driver L298N digunakan untuk menentukan besarnya kecepatan dan arah putar motor DC sebagai penggerak, dan juga sensor HC-SR04 (Ultrasonic) sebagai input dengan cara memancarkan gelombang ultrasonic untuk mendeteksi objek yang berada di depan robot, serta dilengkapi dengan sensor Infrared (IR) yang bekerja dengan cara memancarkan cahaya infra merah untuk mendeteksi garis atau jalur. 
 
 ## Code
-###int vSpeed = 170;                      
-  int turn_speed = 250;       // 0 - 255  max
-  int t_p_speed = 155;
-  int stop_distance = 12;
-  int turn_delay = 10;
 
 
 ## Dokumentasi
